@@ -1,0 +1,27 @@
+PINYIN SOUND LAB — CANVAS 发布说明
+===================================
+
+推荐方式：SCORM（能保留网页交互与音频）
+
+1. 进入 Canvas 课程。
+2. 查看左侧课程导航是否有 “SCORM”。
+3. 打开 SCORM，选择 Upload/上传。
+4. 上传 pinyin-canvas-scorm.zip；不要先解压。
+5. 导入时选择 “Import as an ungraded assignment”（作为不计分作业）。
+6. 打开生成的作业并点击 Publish/发布。
+7. 在 Modules/单元中把该作业加入需要的位置。
+8. 用 Student View/学生视图测试声音和答案翻转按钮。
+
+如果没有 SCORM：
+
+1. 联系学校 Canvas 管理员，询问是否能启用 SCORM LTI。
+2. 若不能启用，可把普通课堂转移包解压后托管在学校网页空间、GitHub Pages
+   或其他允许播放音频的 HTTPS 网站。
+3. 在 Canvas 的 Modules/单元中选择 “External URL/外部网址”，粘贴网页地址。
+4. 建议勾选 “Load in a new tab/在新标签页打开”，然后发布该模块项目。
+
+注意：不要把 HTML 代码直接粘贴到 Canvas Page。Canvas 的内容安全规则可能会移除
+JavaScript，使听音和答案揭晓功能失效。
+
+音频用途：本包供课程内、非商业教学使用。若要公开发布到互联网，请先核对
+AUDIO-CREDITS.md 中列出的第三方录音授权。
